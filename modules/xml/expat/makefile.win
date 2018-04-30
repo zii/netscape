@@ -1,0 +1,9 @@
+
+DEPTH=..\..\..
+
+DIRS=		\
+	xmltok \
+	xmlparse \
+	$(NULL)
+
+include <$(DEPTH)\config\rules.mak>

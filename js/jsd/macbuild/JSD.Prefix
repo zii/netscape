@@ -1,0 +1,10 @@
+//
+//	JSD.Prefix
+//
+// Global prefix file for the non-debug JSD project.
+//
+//
+
+
+#include "MacPrefix.h"
+#include "JSDConfig.h"
